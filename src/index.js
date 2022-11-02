@@ -13,6 +13,6 @@ const root = ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <HashRouter>
       <App />
-    </HashRouter>,
+    </HashRouter>
   </React.StrictMode>
 );

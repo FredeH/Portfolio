@@ -7,6 +7,7 @@ import CV from "./components/CV";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
 import Projects from "./components/Projects";
+import VRDK from "./components/projects/VRDK";
 
 function App() {
   return (
@@ -14,7 +15,11 @@ function App() {
      <Navbar />
      <Routes>
       <Route path="/" element={<><Hero/><WebAR/></>}/>
-      <Route path="/projects" element={<WebAR/>} />
+      <Route path="/projects" element={<Projects/>} />
+      <Route path="/projects/vrdk" element={<VRDK/>} />
+      <Route path="/projects/gm" element={<Projects/>} />
+      <Route path="/projects/caf" element={<Projects/>} />
+      <Route path="/projects/makerlab" element={<Projects/>} />
       <Route path="/cv" element={<CV/>} />
       <Route path="/portfolio" element={<Portfolio/>} />
       <Route path="/contact" element={<Contact/>} />
