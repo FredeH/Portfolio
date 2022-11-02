@@ -13,11 +13,11 @@ function App() {
     <>
      <Navbar />
      <Routes>
-      <Route path="/" element={<><Hero/><WebAR/></>} />
-      <Route path="/projects" element={<Projects/>} />
-      <Route path="/cv" element={<CV/>} />
-      <Route path="/portfolio" element={<Portfolio/>} />
-      <Route path="/contact" element={<Contact/>} />
+      <Route path="/Portfolio/" element={<><Hero/><WebAR/></>} />
+      <Route path="/Portfolio/projects" element={<Projects/>} />
+      <Route path="/Portfolio/cv" element={<CV/>} />
+      <Route path="/Portfolio/portfolio" element={<Portfolio/>} />
+      <Route path="/Portfolio/contact" element={<Contact/>} />
      </Routes>
     </>
   );
