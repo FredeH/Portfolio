@@ -13,7 +13,7 @@ function App() {
     <>
      <Navbar />
      <Routes>
-      <Route path="/">
+      <Route path="/home">
         <Hero />
         <WebAR />
       </Route>
