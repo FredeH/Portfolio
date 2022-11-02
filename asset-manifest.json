@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d94fb048.css",
-    "main.js": "/Portfolio/static/js/main.377d238c.js",
+    "main.js": "/Portfolio/static/js/main.68297ea1.js",
     "static/media/RelyChairRender.png": "/Portfolio/static/media/RelyChairRender.b07c2e5e9c5fbed2c7d5.png",
     "index.html": "/Portfolio/index.html",
     "main.d94fb048.css.map": "/Portfolio/static/css/main.d94fb048.css.map",
-    "main.377d238c.js.map": "/Portfolio/static/js/main.377d238c.js.map"
+    "main.68297ea1.js.map": "/Portfolio/static/js/main.68297ea1.js.map"
   },
   "entrypoints": [
     "static/css/main.d94fb048.css",
-    "static/js/main.377d238c.js"
+    "static/js/main.68297ea1.js"
   ]
 }
