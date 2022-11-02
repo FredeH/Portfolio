@@ -7,8 +7,15 @@ import { BrowserRouter, HashRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
+  /*
+  <BrowserRouter>
+    <App />
+  </BrowserRouter>,
+*/
+  
   <HashRouter>
     <App />
   </HashRouter>,
+  
   document.getElementById('root')
 );
