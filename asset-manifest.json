@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d94fb048.css",
-    "main.js": "/Portfolio/static/js/main.f3e3d97e.js",
+    "main.css": "/Portfolio/static/css/main.5adae584.css",
+    "main.js": "/Portfolio/static/js/main.ef01e5dc.js",
     "static/media/RelyChairRender.png": "/Portfolio/static/media/RelyChairRender.b07c2e5e9c5fbed2c7d5.png",
     "index.html": "/Portfolio/index.html",
-    "main.d94fb048.css.map": "/Portfolio/static/css/main.d94fb048.css.map",
-    "main.f3e3d97e.js.map": "/Portfolio/static/js/main.f3e3d97e.js.map"
+    "main.5adae584.css.map": "/Portfolio/static/css/main.5adae584.css.map",
+    "main.ef01e5dc.js.map": "/Portfolio/static/js/main.ef01e5dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.d94fb048.css",
-    "static/js/main.f3e3d97e.js"
+    "static/css/main.5adae584.css",
+    "static/js/main.ef01e5dc.js"
   ]
 }
