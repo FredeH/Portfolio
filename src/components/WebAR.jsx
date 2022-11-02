@@ -3,7 +3,7 @@ import Rely from '../assets/RelyChairRender.png'
 
 const WebAR = () => {
     return (
-        <div className='w-full bg-[#1c1c1c] text-white'>
+        <div className='w-full bg-[#1f1f23] text-white'>
             <div className='flex-col'>
                 <h1 className='flex justify-center font-bold text-3xl pt-4'>WebAR Examples</h1>
                 <h2 className='flex justify-center pb-4 opacity-50'>Android only</h2>
