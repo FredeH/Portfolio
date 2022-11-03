@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.bf5a30f5.css",
-    "main.js": "/Portfolio/static/js/main.1d6c7eda.js",
+    "main.css": "/Portfolio/static/css/main.2e59c46f.css",
+    "main.js": "/Portfolio/static/js/main.81566540.js",
     "static/media/xqc31gps.webp": "/Portfolio/static/media/xqc31gps.59c5fe6b0638ddf147e1.webp",
     "static/media/stg44.webp": "/Portfolio/static/media/stg44.17aa432db75c608b53e9.webp",
     "static/media/CAF_Carl_Gustav_M2.webp": "/Portfolio/static/media/CAF_Carl_Gustav_M2.f724ccfc8d6cc7054170.webp",
@@ -10,11 +10,11 @@
     "static/media/RelyChairRender.webp": "/Portfolio/static/media/RelyChairRender.3f3a87e3880fbd77fd8a.webp",
     "static/media/profile_pic.webp": "/Portfolio/static/media/profile_pic.9438b4830f6501da400f.webp",
     "index.html": "/Portfolio/index.html",
-    "main.bf5a30f5.css.map": "/Portfolio/static/css/main.bf5a30f5.css.map",
-    "main.1d6c7eda.js.map": "/Portfolio/static/js/main.1d6c7eda.js.map"
+    "main.2e59c46f.css.map": "/Portfolio/static/css/main.2e59c46f.css.map",
+    "main.81566540.js.map": "/Portfolio/static/js/main.81566540.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf5a30f5.css",
-    "static/js/main.1d6c7eda.js"
+    "static/css/main.2e59c46f.css",
+    "static/js/main.81566540.js"
   ]
 }
