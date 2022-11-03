@@ -1,6 +1,6 @@
 import React from "react";
-import STG44 from "../assets/stg44.png";
-import ProfilePic from "../assets/profile_pic2.png";
+import STG44 from "../assets/stg44.webp";
+import ProfilePic from "../assets/profile_pic.webp";
 
 const Hero = () => {
   return (

@@ -1,12 +1,12 @@
 import React from 'react'
-import MP40 from '../assets/rkgldypd.bmp'
-import ColtNavy from '../assets/9yvicj65.bmp'
-import M9A1 from '../assets/xqc31gps.bmp'
+import MP40 from '../assets/rkgldypd.webp'
+import ColtNavy from '../assets/9yvicj65.webp'
+import M9A1 from '../assets/xqc31gps.webp'
 
 const Portfolio = () => {
   return (
     <div className='text-white pt-[100px]'>
-      <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 justify-center'>
+      <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-4 justify-center'>
 
         <a href='https://www.artstation.com/artwork/mqw0la'>
           <div className='w-[400px] hover:scale-105 duration-300'>

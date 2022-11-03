@@ -1,5 +1,5 @@
 import React from 'react'
-import CAF_Gustav from '../assets/CAF_Carl_Gustav_M2.png'
+import CAF_Gustav from '../assets/CAF_Carl_Gustav_M2.webp'
 
 const Projects = () => {
   return (

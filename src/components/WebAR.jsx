@@ -1,5 +1,5 @@
 import React from 'react'
-import Rely from '../assets/RelyChairRender.png'
+import Rely from '../assets/RelyChairRender.webp'
 
 const WebAR = () => {
     return (
