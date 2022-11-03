@@ -3,7 +3,7 @@ import { MdOutlineChevronRight, MdOutlineMenu } from "react-icons/md";
 import { useState } from "react";
 
 const Navbar = () => {
-    const [nav, setNav] = useState(false)
+    const [nav, setNav] = useState(true)
 
     const handleNav = () => {
         setNav(!nav)
@@ -12,9 +12,12 @@ const Navbar = () => {
   return (
     <div className="">
       <nav className="fixed navbar items-center z-50 w-full text-white h-[80px] flex justify-between backdrop-blur-[5px] border-b border-white/[.25] bg-[#171717]/[.15] drop-shadow-lg">
+        <a href="#/">
         <h1 className="w-full text-3xl font-bold text-[#d7dbe0] py-5 pl-5">
           Frederik Hansen
-        </h1>
+        </h1>       
+        </a>
+
         <ul className="uppercase hidden md:flex my-2 mx-2 rounded-md font-bold">
           <a href="#/">
             <li className="p-4">Home</li>
