@@ -10,8 +10,8 @@ const Navbar = () => {
     }
 
   return (
-    <div className="">
-      <nav className="fixed navbar items-center z-50 w-full text-white h-[80px] flex justify-between backdrop-blur-[5px] border-b border-white/[.25] bg-[#171717]/[.15] drop-shadow-lg">
+    <div className="sticky top-0 z-50">
+      <nav className="items-center w-full text-white h-[80px] flex justify-between backdrop-blur-[5px] border-b border-white/[.25] bg-[#171717]/[.15] drop-shadow-lg">
         <a href="#/">
         <h1 className="w-full text-3xl font-bold text-[#d7dbe0] py-5 pl-5">
           Frederik Hansen

@@ -5,7 +5,7 @@ import M9A1 from '../assets/xqc31gps.webp'
 
 const Portfolio = () => {
   return (
-    <div className='text-white pt-[100px]'>
+    <div className='text-white mt-6'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-4 justify-center'>
 
         <a href='https://www.artstation.com/artwork/mqw0la'>
