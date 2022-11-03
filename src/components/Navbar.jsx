@@ -1,5 +1,5 @@
 import React from "react";
-import { MdOutlineChevronRight, MdOutlineMenu } from "react-icons/md";
+import { MdOutlineClose, MdOutlineMenu } from "react-icons/md";
 import { useState } from "react";
 
 const Navbar = () => {
@@ -36,12 +36,12 @@ const Navbar = () => {
           </a>
         </ul>
         <div className="p-4 block md:hidden" onClick={handleNav}>
-            {!nav ? <MdOutlineChevronRight size={25}/> : <MdOutlineMenu size={25}/>}
+            {!nav ? <MdOutlineClose size={25}/> : <MdOutlineMenu size={25}/>}
         </div>
       </nav>
 
-      <div className={!nav ? 'fixed left-0 top-0 w-[35%] border-r z-20 backdrop-blur-[5px] border-white/[.25] bg-[#171717]/[.15] drop-shadow-lg h-full ease-in-out duration-300' : 'fixed left-[-100%]'}>
-        <ul className="uppercase pt-24 my-2 mx-2 rounded-md font-bold text-white">
+      <div className={!nav ? 'fixed right-0 top-0 mt-[80px] w-[35%] border-l z-20 backdrop-blur-[5px] border-white/[.25] bg-[#171717]/[.15] drop-shadow-lg h-full ease-in-out duration-300' : 'fixed right-[-100%] w-[35%] top-0 border-l mt-[80px] z-20 backdrop-blur-[5px] ease-in-out duration-300 h-full'}>
+        <ul className="uppercasemy-2 mx-2 rounded-md font-bold text-white">
           <a href="#/">
             <li className="p-4" onClick={handleNav}>Home</li>
           </a>
