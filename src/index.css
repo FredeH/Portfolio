@@ -5,3 +5,19 @@
 body{
   background-color: #18181b;
 }
+
+.portfolio-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 225px;
+  width: 400px;
+}
+
+.hover-div:hover {
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0)
+  )!important;
+}

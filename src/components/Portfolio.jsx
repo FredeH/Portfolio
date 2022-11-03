@@ -9,20 +9,39 @@ const Portfolio = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-4 justify-center'>
 
         <a href='https://www.artstation.com/artwork/mqw0la'>
-          <div className='w-[400px] hover:scale-105 duration-300'>
-            <img className='rounded-3xl drop-shadow-xl' src={MP40} alt="/" />
+          <div 
+          style={{backgroundImage: `url(${MP40})`}}
+          className='group rounded-3xl drop-shadow-xl portfolio-div hover:scale-105 duration-300 container'>
+            
+            <div 
+            className='opacity-0 flex justify-center portfolio-div hover-div hover:opacity-100 rounded-3xl ease-in-out duration-500'>
+              <h1 className='fixed mb-3 bottom-0 font-bold text-2xl'>MP40</h1>
+            </div>
           </div>
         </a>
 
         <a href='https://www.artstation.com/artwork/P9yg8'>
-          <div className='w-[400px] hover:scale-105 duration-300'>
-            <img className='rounded-3xl drop-shadow-xl' src={ColtNavy} alt="/" />
+        <div 
+          style={{backgroundImage: `url(${ColtNavy})`}}
+          className='rounded-3xl drop-shadow-xl portfolio-div hover:scale-105 duration-300 container'>
+          
+          <div 
+            className='opacity-0 flex justify-center portfolio-div hover-div hover:opacity-100 rounded-3xl ease-in-out duration-500'>
+              <h1 className='fixed mb-3 bottom-0 font-bold text-2xl'>Colt Navy</h1>
+            </div>
+
           </div>
         </a>
 
         <a href='https://www.artstation.com/artwork/0bVDw'>
-          <div className='w-[400px] hover:scale-105 duration-300'>
-            <img className='rounded-3xl drop-shadow-xl' src={M9A1} alt="/" />
+        <div 
+          style={{backgroundImage: `url(${M9A1})`}}
+          className='rounded-3xl drop-shadow-xl portfolio-div hover:scale-105 duration-300 container'>
+          
+          <div 
+            className='opacity-0 flex justify-center portfolio-div hover-div hover:opacity-100 rounded-3xl ease-in-out duration-500'>
+              <h1 className='fixed mb-3 bottom-0 font-bold text-2xl'>M9A1</h1>
+            </div>
           </div>
         </a>
         
