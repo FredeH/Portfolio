@@ -22,8 +22,8 @@ const Hero = () => {
       </div>
       <div className="max-w-[800px] w-full h-[580px] mx-auto text-center flex justify-center">
         <div className="z-10 flex-col justify-center pt-[22rem]">
-          <p className="font-bold p-2 sm:text-6xl">Frederik Hansen</p>
-          <h1 className="sm:text-3xl">Software developer and 3D Generalist</h1>
+          <p className="font-bold p-2 text-3xl md:text-6xl">Frederik Hansen</p>
+          <h1 className="text-lg md:text-3xl">Software developer and 3D Generalist</h1>
         </div>
       </div>
     </div>

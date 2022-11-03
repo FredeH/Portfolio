@@ -4,7 +4,7 @@ import CAF_Gustav from '../assets/CAF_Carl_Gustav_M2.png'
 const Projects = () => {
   return (
     <div className='flex justify-center'>
-      <div className='grid grid-flow-row grid-rows-2 grid-cols-2 gap-8 pt-[100px]'>
+      <div className='grid grid-flow-row md:grid-rows-2 md:grid-cols-2 gap-8 pt-[100px]'>
 
         <a href='#/Projects/VRDK' className='hover:scale-110 hover:z-10 duration-300'>
           <div className='bg-[#1f1f23] drop-shadow-2xl rounded-3xl w-[400px] h-[400px] border border-white/[.25]'>

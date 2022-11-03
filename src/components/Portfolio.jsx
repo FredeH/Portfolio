@@ -6,7 +6,7 @@ import M9A1 from '../assets/xqc31gps.bmp'
 const Portfolio = () => {
   return (
     <div className='text-white pt-[100px]'>
-      <div className='grid-flow-row grid-col-4 grid-rows-4 justify-center flex gap-4'>
+      <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 justify-center'>
 
         <a href='https://www.artstation.com/artwork/mqw0la'>
           <div className='w-[400px] hover:scale-105 duration-300'>
