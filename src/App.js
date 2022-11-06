@@ -8,6 +8,7 @@ import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
 import Projects from "./components/Projects";
 import VRDK from "./components/projects/VRDK";
+import CAF from "./components/projects/CAF";
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
       <Route path="/projects" element={<Projects/>} />
       <Route path="/projects/vrdk" element={<VRDK/>} />
       <Route path="/projects/gm" element={<Projects/>} />
-      <Route path="/projects/caf" element={<Projects/>} />
+      <Route path="/projects/caf" element={<CAF/>} />
       <Route path="/projects/makerlab" element={<Projects/>} />
       <Route path="/cv" element={<CV/>} />
       <Route path="/portfolio" element={<Portfolio/>} />
