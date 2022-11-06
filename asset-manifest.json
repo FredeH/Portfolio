@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2e59c46f.css",
-    "main.js": "/Portfolio/static/js/main.81566540.js",
+    "main.css": "/Portfolio/static/css/main.7f3f64a3.css",
+    "main.js": "/Portfolio/static/js/main.605f342d.js",
     "static/media/xqc31gps.webp": "/Portfolio/static/media/xqc31gps.59c5fe6b0638ddf147e1.webp",
+    "static/media/M2_portfolio.webp": "/Portfolio/static/media/M2_portfolio.4d686d10435c8b45df60.webp",
     "static/media/stg44.webp": "/Portfolio/static/media/stg44.17aa432db75c608b53e9.webp",
+    "static/media/HiPower_portfolio.webp": "/Portfolio/static/media/HiPower_portfolio.5019e0aa73eecb93ce4a.webp",
     "static/media/CAF_Carl_Gustav_M2.webp": "/Portfolio/static/media/CAF_Carl_Gustav_M2.f724ccfc8d6cc7054170.webp",
     "static/media/rkgldypd.webp": "/Portfolio/static/media/rkgldypd.5a30f3dbf7d9462855b1.webp",
+    "static/media/HiPower.webp": "/Portfolio/static/media/HiPower.03a0108a401c3ad0312a.webp",
     "static/media/9yvicj65.webp": "/Portfolio/static/media/9yvicj65.9cf4922b172c8093c639.webp",
     "static/media/RelyChairRender.webp": "/Portfolio/static/media/RelyChairRender.3f3a87e3880fbd77fd8a.webp",
+    "static/media/84mm_Tandem.webp": "/Portfolio/static/media/84mm_Tandem.bbcdf0172caad74c3962.webp",
+    "static/media/84mm_HEAT.webp": "/Portfolio/static/media/84mm_HEAT.94d7fbfbfe35eb5ea0fe.webp",
+    "static/media/M2_Gustav_2.webp": "/Portfolio/static/media/M2_Gustav_2.4bc92039467bbf183157.webp",
+    "static/media/M2_Gustav.webp": "/Portfolio/static/media/M2_Gustav.39d86a10b08faaba36fc.webp",
+    "static/media/84mm_HE.webp": "/Portfolio/static/media/84mm_HE.7b4fbeb2533df5fa779a.webp",
+    "static/media/CAF_dlc.webp": "/Portfolio/static/media/CAF_dlc.0573503a074a4bc784b2.webp",
     "static/media/profile_pic.webp": "/Portfolio/static/media/profile_pic.9438b4830f6501da400f.webp",
     "index.html": "/Portfolio/index.html",
-    "main.2e59c46f.css.map": "/Portfolio/static/css/main.2e59c46f.css.map",
-    "main.81566540.js.map": "/Portfolio/static/js/main.81566540.js.map"
+    "main.7f3f64a3.css.map": "/Portfolio/static/css/main.7f3f64a3.css.map",
+    "main.605f342d.js.map": "/Portfolio/static/js/main.605f342d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e59c46f.css",
-    "static/js/main.81566540.js"
+    "static/css/main.7f3f64a3.css",
+    "static/js/main.605f342d.js"
   ]
 }
