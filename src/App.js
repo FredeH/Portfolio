@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import {Routes, Route} from 'react-router-dom'
 import WebAR from "./components/WebAR";
 import Hero from "./components/Hero";
-import CV from "./components/CV";
+import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
 import Projects from "./components/Projects";
@@ -21,9 +21,8 @@ function App() {
       <Route path="/projects/gm" element={<Projects/>} />
       <Route path="/projects/caf" element={<CAF/>} />
       <Route path="/projects/makerlab" element={<Projects/>} />
-      <Route path="/cv" element={<CV/>} />
+      <Route path="/resume" element={<Resume/>} />
       <Route path="/portfolio" element={<Portfolio/>} />
-      <Route path="/contact" element={<Contact/>} />
      </Routes>
     </>
   );

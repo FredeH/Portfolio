@@ -10,6 +10,11 @@ body{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
+  height: 200px;
+  width: 355px;
+}
+
+.md-div {
   height: 225px;
   width: 400px;
 }
@@ -28,4 +33,26 @@ body{
   background-position: center;
   min-height: 150px;
   max-height: 500px;
+}
+
+.resume-hero{
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.dlc-div{
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  max-width: 460px;
+  max-height: 215px;
+}
+
+.software-icon{
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 64px;
+  height: 64px;
 }

@@ -9,7 +9,7 @@ import Heat from "../../assets/84mm_HEAT.webp";
 
 const CAF = () => {
   return (
-    <div className="mt-6">
+    <div className="my-6">
       <div className="">
         <div className="h-auto max-w-6xl mx-auto">
           <div className="text-white text-center">
@@ -68,11 +68,11 @@ const CAF = () => {
           </div>
         </div>
 
-        <div className="flex justify-center p-5">
+        <div className="flex justify-center pt-3">
           <a href="https://store.steampowered.com/app/1123920/Canadian_Armed_Forces/">
             <div
               style={{ backgroundImage: `url(${CAF_DLC})` }}
-              className="drop-shadow-xl h-[215px] w-[460px] hover:scale-105 duration-300 container"
+              className="drop-shadow-xl dlc-div w-[350px] h-[150px] md:w-[460px] md:h-[215px] hover:scale-105 duration-300 container"
             ></div>
           </a>
         </div>

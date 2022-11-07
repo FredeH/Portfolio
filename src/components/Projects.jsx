@@ -3,13 +3,13 @@ import CAF_Gustav from "../assets/CAF_Carl_Gustav_M2.webp";
 
 const Projects = () => {
   return (
-    <div className="flex justify-center mt-10">
+    <div className="flex justify-center my-10">
       <div className="grid grid-flow-row md:grid-rows-2 md:grid-cols-2 gap-8">
         <a
           href="#/Projects/VRDK"
           className="hover:scale-110 hover:z-10 duration-300"
         >
-          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[400px] h-[400px] border border-white/[.25]">
+          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[350px] h-[350px]">
             <h1 className="text-white flex justify-center pt-4 font-bold text-3xl">
               VRDK
             </h1>
@@ -20,12 +20,12 @@ const Projects = () => {
           href="#/Projects/CAF"
           className="hover:scale-110 hover:z-10 duration-300"
         >
-          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[400px] h-[400px] border border-white/[.25]">
+          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[350px] h-[350px]">
             <h1 className="text-white flex justify-center pt-4 font-bold text-3xl">
               CAF mod
             </h1>
             <img
-              className="mt-4 border-t  border-white/[.25]"
+              className="mt-4"
               src={CAF_Gustav}
               alt="/"
             />
@@ -39,7 +39,7 @@ const Projects = () => {
           href="#/Projects/GM"
           className="hover:scale-110 hover:z-10 duration-300"
         >
-          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[400px] h-[400px] border border-white/[.25]">
+          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[350px] h-[350px]">
             <h1 className="text-white flex justify-center pt-4 font-bold text-3xl">
               GM AR
             </h1>
@@ -50,7 +50,7 @@ const Projects = () => {
           href="#/Projects/Makerlab"
           className="hover:scale-110 hover:z-10 duration-300"
         >
-          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[400px] h-[400px] border border-white/[.25]">
+          <div className="bg-[#1f1f23] drop-shadow-lg rounded-3xl w-[350px] h-[350px]">
             <h1 className="text-white flex justify-center pt-4 font-bold text-3xl">
               Makerlab VR sim
             </h1>
