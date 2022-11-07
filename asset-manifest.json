@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7f3f64a3.css",
-    "main.js": "/Portfolio/static/js/main.605f342d.js",
+    "main.css": "/Portfolio/static/css/main.7f9f8072.css",
+    "main.js": "/Portfolio/static/js/main.aefa4f9e.js",
     "static/media/xqc31gps.webp": "/Portfolio/static/media/xqc31gps.59c5fe6b0638ddf147e1.webp",
     "static/media/M2_portfolio.webp": "/Portfolio/static/media/M2_portfolio.4d686d10435c8b45df60.webp",
-    "static/media/stg44.webp": "/Portfolio/static/media/stg44.17aa432db75c608b53e9.webp",
     "static/media/HiPower_portfolio.webp": "/Portfolio/static/media/HiPower_portfolio.5019e0aa73eecb93ce4a.webp",
+    "static/media/stg44.webp": "/Portfolio/static/media/stg44.c4676c307d50d0e231b5.webp",
     "static/media/CAF_Carl_Gustav_M2.webp": "/Portfolio/static/media/CAF_Carl_Gustav_M2.f724ccfc8d6cc7054170.webp",
     "static/media/rkgldypd.webp": "/Portfolio/static/media/rkgldypd.5a30f3dbf7d9462855b1.webp",
     "static/media/HiPower.webp": "/Portfolio/static/media/HiPower.03a0108a401c3ad0312a.webp",
@@ -18,12 +18,19 @@
     "static/media/84mm_HE.webp": "/Portfolio/static/media/84mm_HE.7b4fbeb2533df5fa779a.webp",
     "static/media/CAF_dlc.webp": "/Portfolio/static/media/CAF_dlc.0573503a074a4bc784b2.webp",
     "static/media/profile_pic.webp": "/Portfolio/static/media/profile_pic.9438b4830f6501da400f.webp",
+    "static/media/rizom_uv.png": "/Portfolio/static/media/rizom_uv.ad2729642b4daf797e18.png",
+    "static/media/3dsMax.png": "/Portfolio/static/media/3dsMax.aaa654add1551eb81ac5.png",
+    "static/media/SOLIDWORKS-white.svg": "/Portfolio/static/media/SOLIDWORKS-white.b591477d0d0f780965c27d3b2d1d9892.svg",
+    "static/media/pt_appicon_256.svg": "/Portfolio/static/media/pt_appicon_256.842d7b12b6b1051fd0fea4f89b646165.svg",
+    "static/media/ps_appicon.svg": "/Portfolio/static/media/ps_appicon.ff6acc9d9d2a9e6efe66e94d5aeb1af4.svg",
+    "static/media/Blender.svg": "/Portfolio/static/media/Blender.e1f221731ac65bcde0af5dd6b72ef338.svg",
+    "static/media/illustrator.svg": "/Portfolio/static/media/illustrator.b857cf4da863d5669f41f49cdf813db4.svg",
     "index.html": "/Portfolio/index.html",
-    "main.7f3f64a3.css.map": "/Portfolio/static/css/main.7f3f64a3.css.map",
-    "main.605f342d.js.map": "/Portfolio/static/js/main.605f342d.js.map"
+    "main.7f9f8072.css.map": "/Portfolio/static/css/main.7f9f8072.css.map",
+    "main.aefa4f9e.js.map": "/Portfolio/static/js/main.aefa4f9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f3f64a3.css",
-    "static/js/main.605f342d.js"
+    "static/css/main.7f9f8072.css",
+    "static/js/main.aefa4f9e.js"
   ]
 }
