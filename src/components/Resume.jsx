@@ -154,7 +154,7 @@ const CV = () => {
                 style={{ backgroundImage: `url(${SubstancePainter})` }}
                 className="software-icon"
               ></div>
-              <h1 className="absolute bottom-0">Substance Painter</h1>
+              <h1 className="absolute bottom-0 whitespace-nowrap">Substance Painter</h1>
             </div>
 
             <div className="h-[128px] w-[128px] drop-shadow-lg rounded-lg flex justify-center items-center">
